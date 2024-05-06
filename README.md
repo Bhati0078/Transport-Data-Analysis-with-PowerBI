@@ -20,4 +20,8 @@ The objective of this project is to leverage Power BI for in-depth exploration, 
 * There seems to be a significant discrepancy between capacity utilization rate values across visualizations (Domestic & Intercom). Further investigation is needed to
   understand this consistency.
 
-
+# Recommendations
+* Analyze the reasons behind the high cost per mile for domestic shipping to identify potential areas for cost reduction. 
+* Explore expanding intercom trips to capitalize on their higher average revenue per mile. 
+* Investigate the factors contributing to Minnesota's high revenue as a destination state. 
+* Conduct a thorough review to reconcile the discrepancies in capacity utilization rate values. 
