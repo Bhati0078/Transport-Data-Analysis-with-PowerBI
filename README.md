@@ -18,5 +18,5 @@ The objective of this project is to leverage Power BI for in-depth exploration, 
 • Intercom trips consistently generate the highest average revenue per mile, suggesting they might be a more strategic focus for profitability.
 • Despite having the highest overall revenue, origin state Illinois is not necessarily the most efficient based on average revenue per mile. In contrast, Minnesota emerges as the 
   destination state with the highest overall revenue.
-• There seems to be a significant discrepancy between capacity utilization rate values across visualizations (Domestic & Intercom). Further investigation is needed to understand this 
+  • There seems to be a significant discrepancy between capacity utilization rate values across visualizations (Domestic & Intercom). Further investigation is needed to understand this 
   consistency.
