@@ -13,10 +13,10 @@ The objective of this project is to leverage Power BI for in-depth exploration, 
 
 # Conclusion
 
-• This project analyzed transportation data to gain insights into costs, revenue, and efficiency across various categories. Here are the key 
+• This project analyzed transportation data to gain insights into costs, revenue, and efficiency across various categories. Here are the key  
   takeaways.                                     
-• Domestic shipping is the most prevalent trip type, but it also appears to be the least profitable due to a higher average cost per mile compared to revenue. 
-• Intercom trips consistently generate the highest average revenue per mile, suggesting they
-  might be a more strategic focus for profitability.
+• Domestic shipping is the most prevalent trip type, but it also appears to be the least profitable due to a higher average cost per mile compared to 
+  revenue. 
+• Intercom trips consistently generate the highest average revenue per mile, suggesting they might be a more strategic focus for profitability.
 
 
